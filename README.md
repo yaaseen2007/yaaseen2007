@@ -98,4 +98,4 @@ A contact management REST API built with Django REST Framework, connected to a R
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
 
-#Thanks
+#Thanks for reading
