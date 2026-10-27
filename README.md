@@ -3,11 +3,6 @@
 
 I'm a third-year Computer Science and Business Systems (CSBS) student at Rajalakshmi Institute of Technology, Chennai. I'm passionate about Python development and building practical applications using Django, Django REST Framework, and Flask.
 
-- 🔭 Building web applications and REST APIs with Python
-- 🌱 Improving my skills in backend development and frontend integration
-- 🎓 B.Tech CSBS (2024–2028) | CGPA: 8.5/10
-- 📍 Chennai, Tamil Nadu, India
-
 ---
 
 ## 🛠️ Technical Skills
