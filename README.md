@@ -1,7 +1,7 @@
 
 # Hi, I'm Muhammad Yaaseen M 👋
 
-### CSBS Student | Python Developer
+### CSBS Student
 
 I'm a third-year Computer Science and Business Systems (CSBS) student at Rajalakshmi Institute of Technology, Chennai. I'm passionate about Python development and building practical applications using Django, Django REST Framework, and Flask.
 
