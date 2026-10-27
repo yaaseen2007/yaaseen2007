@@ -1,101 +1,90 @@
-# 👋 Hi, I'm Muhammad Yaaseen!
 
-🐍 **Aspiring Python Developer** | 🤖 AI/ML Enthusiast | 🔐 Cybersecurity Enthusiast
+# Hi, I'm Muhammad Yaaseen M 👋
 
-I'm a Computer Science and Business Systems (CSBS) student from India 🇮🇳, passionate about programming, artificial intelligence, machine learning, and cybersecurity.
+### CSBS Student | Python Developer
 
-I'm currently learning Python development, building practical projects, and exploring technologies that help me grow as a developer. I believe in learning by building, improving my problem-solving skills, and continuously exploring new areas of technology.
+I'm a third-year Computer Science and Business Systems (CSBS) student at Rajalakshmi Institute of Technology, Chennai. I'm passionate about Python development and building practical applications using Django, Django REST Framework, and Flask.
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎯 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🤖 AI & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-*Exploring AI, machine learning, and intelligent applications.*
-
-### 🔐 Cybersecurity
-- Python for security automation
-- Networking and security fundamentals
-- Linux and command-line tools
-- Ethical hacking and penetration testing fundamentals
-
-*Exploring cybersecurity and learning security concepts through ethical, authorized practice.*
-
-### 🗄️ Databases
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🔭 Building web applications and REST APIs with Python
+- 🌱 Improving my skills in backend development and frontend integration
+- 🎓 B.Tech CSBS (2024–2028) | CGPA: 8.5/10
+- 📍 Chennai, Tamil Nadu, India
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Technical Skills
 
-- 🐍 Python programming and application development
-- 🌐 Django and Django REST Framework
-- 🔗 REST APIs and HTTP methods
-- 🗄️ SQLite and database management
-- 🤖 Artificial intelligence and machine learning fundamentals
-- 🔐 Cybersecurity, networking, and security tools
-- 🔧 Git and GitHub
-
----
-
-## 💻 My Projects
-
-### 🗨️ ChatNest — Chat Application
-A chat application built with Django, featuring user authentication, user listings, and messaging functionality.
-
-**Technologies:** Python, Django, SQLite, HTML, CSS, Bootstrap
-
-🔗 [View Repository](https://github.com/YOUR_USERNAME/ChatNest)
-
-### 📇 Contact Management API
-A contact management REST API built with Django REST Framework, connected to a React frontend.
-
-**Technologies:** Python, Django REST Framework, React, SQLite
-
-🔗 [View Repository](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+- **Languages:** Python, Java, JavaScript
+- **Frameworks:** Django, Django REST Framework, Flask
+- **Frontend:** HTML, CSS, Bootstrap, React (Basic)
+- **Databases:** SQLite, MySQL
+- **Libraries:** NumPy, Pandas, Matplotlib
+- **API Development:** REST APIs, CRUD Operations, HTTP Methods
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 🎯 My Goals
+## 🚀 Projects
 
-- Build useful projects using Python
-- Explore AI/ML and develop intelligent applications
-- Learn cybersecurity and ethical hacking
-- Strengthen my programming and problem-solving skills
-- Contribute to open-source projects
-- Find opportunities to learn and grow through real-world projects
+### ChatNest
+A Django chat application featuring user authentication and messaging.
+
+**Tech Stack:** Python, Django
+
+[View Source Code](https://github.com/yaaseen2007/ChatNest)
+
+### One-Time Scannable Entry Pass
+An event registration system featuring QR-code pass generation and validation.
+
+**Tech Stack:** Python, Django
+
+[View Source Code](https://github.com/yaaseen2007/One-Time-Scannable-Entry-Pass)
+
+### ContactBook
+A contact management application with REST API integration and a React frontend.
+
+**Tech Stack:** Django, Django REST Framework, React, SQLite
+
+[View Source Code](https://github.com/yaaseen2007/ContactBook)
+
+### Flask Blog
+A blog application with authentication and database integration.
+
+**Tech Stack:** Python, Flask, Flask-SQLAlchemy
+
+[View Source Code](https://github.com/yaaseen2007/flask-blog)
+
+### Flask URL Shortener
+A web application that shortens URLs and redirects users to their original destinations.
+
+**Tech Stack:** Python, Flask, Flask-SQLAlchemy
+
+[View Source Code](https://github.com/yaaseen2007/Flask-URL-Shortener)
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Education
 
-- 🧑‍💻 GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 💼 LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+**B.Tech – Computer Science and Business Systems (CSBS)**  
+Rajalakshmi Institute of Technology, Chennai  
+2024–2028 | CGPA: 8.5/10
+
+**SBOA Matriculation and Higher Secondary School**
+- Class 12: 84.83%
+- Class 10: 98%
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
+## 🏆 Achievements
 
-#Thanks for reading ok? bye
+- Participated in Freshathon at Rajalakshmi Institute of Technology.
+- Participated in software testing activities for the Keystone software application.
+
+---
+
+## 📫 Contact
+
+- **Email:** muhammadyaaseen2008@gmail.com
+- **Location:** Chennai, Tamil Nadu, India
+- **GitHub:** [yaaseen2007](https://github.com/yaaseen2007)
+- **LinkedIn:** [Muhammad Yaaseen M](https://www.linkedin.com/in/muhammad-yaaseen-m-66b7a132b/)
